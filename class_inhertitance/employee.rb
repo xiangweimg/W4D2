@@ -9,4 +9,5 @@ class Employee
     def bonus(multiplier)
         bonus = @salary * multiplier
     end
+    
 end
